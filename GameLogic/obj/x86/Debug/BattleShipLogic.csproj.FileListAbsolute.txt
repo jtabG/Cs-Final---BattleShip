@@ -1,0 +1,14 @@
+G:\Portable C#\Assignments\Battleship\BattleShipLogic\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Portable C#\Assignments\Battleship\BattleShipLogic\bin\Debug\BattleShipLogic.exe
+G:\Portable C#\Assignments\Battleship\BattleShipLogic\bin\Debug\BattleShipLogic.pdb
+G:\Portable C#\Assignments\Battleship\BattleShipLogic\obj\x86\Debug\BattleShipLogic.exe
+G:\Portable C#\Assignments\Battleship\BattleShipLogic\obj\x86\Debug\BattleShipLogic.pdb
+C:\Users\pyer0001\Desktop\Battleship\BattleShipLogic\obj\x86\Debug\BattleShipLogic.exe
+C:\Users\pyer0001\Desktop\Battleship\BattleShipLogic\obj\x86\Debug\BattleShipLogic.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\GameLogic\bin\Debug\BattleShipLogic.exe
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\GameLogic\bin\Debug\BattleShipLogic.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\GameLogic\bin\Debug\TurnLogic.dll
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\GameLogic\bin\Debug\TurnLogic.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\GameLogic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\GameLogic\obj\x86\Debug\BattleShipLogic.exe
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\GameLogic\obj\x86\Debug\BattleShipLogic.pdb

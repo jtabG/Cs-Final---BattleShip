@@ -1,0 +1,21 @@
+Content\TestButton.xnb
+Content\Battleship.xnb
+Content\Carrier.xnb
+Content\Cruiser.xnb
+Content\Destroyer.xnb
+Content\Submarine.xnb
+Content\TileWater.xnb
+Content\GridFont.xnb
+Content\TargetReticle.xnb
+Content\battleshipbutton.xnb
+Content\carrierbutton.xnb
+Content\cruiserbutton.xnb
+Content\destroyerbutton.xnb
+Content\missed shot.xnb
+Content\quitbutton.xnb
+Content\resetbutton.xnb
+Content\shotHit.xnb
+Content\startgamebutton.xnb
+Content\submarinebutton.xnb
+Content\loseScreen.xnb
+Content\winScreen.xnb

@@ -1,0 +1,33 @@
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Cs Final - BattleShip.exe
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Cs Final - BattleShip.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\obj\x86\Debug\Cs Final - BattleShip.exe
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\obj\x86\Debug\Cs Final - BattleShip.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\TestButton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Ships.dll
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\TurnLogic.dll
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\TurnLogic.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Ships.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Battleship.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Carrier.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Cruiser.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Destroyer.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Submarine.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\TileWater.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\GridFont.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\TargetReticle.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\battleshipbutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\carrierbutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\cruiserbutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\destroyerbutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\missed shot.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\quitbutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\resetbutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\shotHit.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\startgamebutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\submarinebutton.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\BattleShipLogic.exe
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\BattleShipLogic.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\loseScreen.xnb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\winScreen.xnb

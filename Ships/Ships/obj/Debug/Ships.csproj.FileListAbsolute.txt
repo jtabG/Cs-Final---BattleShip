@@ -1,0 +1,10 @@
+C:\Users\Jtab\Desktop\Ships\Ships\bin\Debug\Ships.dll
+C:\Users\Jtab\Desktop\Ships\Ships\bin\Debug\Ships.pdb
+C:\Users\Jtab\Desktop\Ships\Ships\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jtab\Desktop\Ships\Ships\obj\Debug\Ships.dll
+C:\Users\Jtab\Desktop\Ships\Ships\obj\Debug\Ships.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Ships\Ships\bin\Debug\Ships.dll
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Ships\Ships\bin\Debug\Ships.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Ships\Ships\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Ships\Ships\obj\Debug\Ships.dll
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\Ships\Ships\obj\Debug\Ships.pdb

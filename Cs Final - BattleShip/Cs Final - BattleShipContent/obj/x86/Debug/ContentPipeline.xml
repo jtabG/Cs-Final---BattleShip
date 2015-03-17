@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TestButton.png</Source>
+      <Name>TestButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\TestButton.xnb</Output>
+      <Time>2013-11-23T18:40:38.6766898-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Battleship.png</Source>
+      <Name>Battleship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Battleship.xnb</Output>
+      <Time>2013-12-05T11:04:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Carrier.png</Source>
+      <Name>Carrier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Carrier.xnb</Output>
+      <Time>2013-12-05T11:10:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cruiser.png</Source>
+      <Name>Cruiser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Cruiser.xnb</Output>
+      <Time>2013-12-05T10:58:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Destroyer.png</Source>
+      <Name>Destroyer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Destroyer.xnb</Output>
+      <Time>2013-12-05T10:51:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Submarine.png</Source>
+      <Name>Submarine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\Submarine.xnb</Output>
+      <Time>2013-12-05T10:45:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileWater.png</Source>
+      <Name>TileWater</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\TileWater.xnb</Output>
+      <Time>2013-12-05T11:23:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GridFont.spritefont</Source>
+      <Name>GridFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\GridFont.xnb</Output>
+      <Time>2013-12-06T01:49:55.1755834-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TargetReticle.png</Source>
+      <Name>TargetReticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\TargetReticle.xnb</Output>
+      <Time>2013-12-06T16:57:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>battleshipbutton.png</Source>
+      <Name>battleshipbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\battleshipbutton.xnb</Output>
+      <Time>2013-12-06T17:47:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>carrierbutton.png</Source>
+      <Name>carrierbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\carrierbutton.xnb</Output>
+      <Time>2013-12-06T17:48:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cruiserbutton.png</Source>
+      <Name>cruiserbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\cruiserbutton.xnb</Output>
+      <Time>2013-12-06T17:42:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>destroyerbutton.png</Source>
+      <Name>destroyerbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\destroyerbutton.xnb</Output>
+      <Time>2013-12-06T17:45:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>missed shot.png</Source>
+      <Name>missed shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\missed shot.xnb</Output>
+      <Time>2013-12-06T18:22:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>quitbutton.png</Source>
+      <Name>quitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\quitbutton.xnb</Output>
+      <Time>2013-12-06T18:07:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>resetbutton.png</Source>
+      <Name>resetbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\resetbutton.xnb</Output>
+      <Time>2013-12-06T18:09:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shotHit.png</Source>
+      <Name>shotHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\shotHit.xnb</Output>
+      <Time>2013-12-06T18:19:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startgamebutton.png</Source>
+      <Name>startgamebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\startgamebutton.xnb</Output>
+      <Time>2013-12-06T18:05:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>submarinebutton.png</Source>
+      <Name>submarinebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\submarinebutton.xnb</Output>
+      <Time>2013-12-06T17:51:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>loseScreen.png</Source>
+      <Name>loseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\loseScreen.xnb</Output>
+      <Time>2013-12-07T13:16:59.0386392-05:00</Time>
+    </Item>
+    <Item>
+      <Source>winScreen.png</Source>
+      <Name>winScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\winScreen.xnb</Output>
+      <Time>2013-12-07T13:17:00.3647151-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShipContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShipContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jtab\Desktop\Cs Final - BattleShip\Cs Final - BattleShip\Cs Final - BattleShip\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-27T16:11:06.2872774-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

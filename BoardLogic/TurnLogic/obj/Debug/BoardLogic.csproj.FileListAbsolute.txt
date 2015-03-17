@@ -1,0 +1,13 @@
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\obj\Debug\BoardLogic.BattleShip.resources
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\bin\Debug\TurnLogic.dll
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\bin\Debug\TurnLogic.pdb
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\obj\Debug\TurnLogic.dll
+C:\Users\Jtab\Desktop\BoardLogic\TurnLogic\obj\Debug\TurnLogic.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\BoardLogic\TurnLogic\bin\Debug\TurnLogic.dll
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\BoardLogic\TurnLogic\bin\Debug\TurnLogic.pdb
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\BoardLogic\TurnLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\BoardLogic\TurnLogic\obj\Debug\TurnLogic.dll
+C:\Users\Jtab\Desktop\Cs Final - BattleShip\BoardLogic\TurnLogic\obj\Debug\TurnLogic.pdb
